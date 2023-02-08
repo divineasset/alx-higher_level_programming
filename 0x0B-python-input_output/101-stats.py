@@ -30,7 +30,6 @@ if __name__ == "__main__":
             line = line.split()
 
             try:
-
                 size += int(line[-1])
             except (IndexError, ValueError):
                 pass
