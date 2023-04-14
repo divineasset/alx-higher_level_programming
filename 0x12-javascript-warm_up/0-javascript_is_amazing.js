@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
-const myVa r='JavaScript is amazing';
+const myVar = 'JavaScript is amazing';
 console.log(myVar);
